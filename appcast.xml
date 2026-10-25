@@ -3,6 +3,14 @@
     <channel>
         <title>ScreenWizard</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 25 Oct 2026 14:56:33 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/obaid/screenwizard-releases/releases/download/v0.1.1/ScreenWizard.dmg" length="124388363" type="application/octet-stream" sparkle:edSignature="234WjBHjPtZVH74WX8oSfSH6FSyO5OHRiIXCfbxh1rZJ6ZzEKhtuiTFW6YQbL5NfOV+Yx8mIPzK0Um3BwGP/Bw=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sun, 25 Oct 2026 09:54:49 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
