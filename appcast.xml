@@ -3,6 +3,14 @@
     <channel>
         <title>ScreenWizard</title>
         <item>
+            <title>0.6</title>
+            <pubDate>Tue, 27 Oct 2026 09:51:23 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/obaid/screenwizard-releases/releases/download/v0.6/ScreenWizard.dmg" length="125801337" type="application/octet-stream" sparkle:edSignature="dGvZI0ydasiSFiwrFVKbFGLmP2fhYg6KNkTxmtFjN0r0YbCds4S1slYhLOgqp4Cv/i3LiR2HSM3yhecqmgekDw=="/>
+        </item>
+        <item>
             <title>0.5</title>
             <pubDate>Tue, 27 Oct 2026 09:33:39 -0700</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/obaid/screenwizard-releases/releases/download/v0.4/ScreenWizard.dmg" length="125772175" type="application/octet-stream" sparkle:edSignature="5fpqCOhMzk+NdBxqcjrgYGDLRu2+sr+rr1rcBAn3FbIJGQLf5Ck0t86A58uO3YamFjYilo9yXE7YTTslzgcuBg=="/>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Mon, 26 Oct 2026 22:42:56 -0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/obaid/screenwizard-releases/releases/download/v0.3/ScreenWizard.dmg" length="125755244" type="application/octet-stream" sparkle:edSignature="WQ8uvjcKDJ6W2+ttwRUDwHDJIrPUrfjxqK2/FYaxhCMvYEs6VEnEsYYn2rM+0AuZ4kIe1Sdelywp9D3njatyCg=="/>
         </item>
     </channel>
 </rss>
